@@ -1,0 +1,13 @@
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\BackUp DBD\Proyecto\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
